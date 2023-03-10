@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference-olleh 755
+chmod --reference-olleh 53
